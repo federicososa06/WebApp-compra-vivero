@@ -1,0 +1,17 @@
+
+//Plantilla para alta compra
+{
+	"tipo": "Importada",
+	"fecha": "2019-12-12T18:07:04.4233333",
+	"americaDelSur": false,
+	"medidasSanitarias": "medidas sanitarias para una compra importada",
+	"costoFlete": 0,
+	"ListaItems": 
+	[
+		{
+			"plantaId": 17,
+			"cantidad": 2,
+			"precioUnitario": 500.00
+		}
+	]
+}

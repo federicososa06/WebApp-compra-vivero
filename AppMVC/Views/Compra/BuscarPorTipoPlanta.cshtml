@@ -1,0 +1,85 @@
+﻿@model AppMVC.Models.ViewModelCompleto
+
+@{
+    ViewData["Title"] = "Buscar compras por tipo planta";
+}
+
+<h1>Buscar compras</h1>
+
+@* TIPOS DE PLANTA *@
+
+<div class="row">
+    <div class="col-md-6 mb-3">
+        <form asp-action="BuscarPorTipoPlanta" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label class="control-label">Buscar por tipo</label>
+                <select name="idTipoSeleccionado">
+                    @foreach (var tipo in Model.ListaTiposPlanta)
+                    {
+                        <option value="@tipo.Id">@tipo.Nombre</option>
+                    }
+                </select>
+                <input type="submit" value="Buscar" class="btn btn-light" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<span class="text-danger">@ViewBag.Error</span>
+
+
+
+
+@if (Model.ListaCompras != null && Model.ListaCompras.Count() > 0)
+{
+    <h4>Resultados</h4>
+
+    <table class="col table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    Id compra
+                </th>
+                <th>
+                    Fecha compra
+                </th>
+                <th>
+                    Nombre cientifico
+                </th>
+                <th>
+                    Cantidad unidades
+                </th>
+                <th>
+                    Costo total
+                </th>
+            </tr>
+                
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ListaCompras)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CompraId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fecha)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCientifico)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cantidad)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CostoTotal)
+                </td>
+            </tr>
+                
+            }
+        </tbody>
+    </table>
+}

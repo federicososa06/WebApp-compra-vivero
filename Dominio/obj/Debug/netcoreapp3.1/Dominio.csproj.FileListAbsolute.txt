@@ -1,0 +1,20 @@
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\a\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

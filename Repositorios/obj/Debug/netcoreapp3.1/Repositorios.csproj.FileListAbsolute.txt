@@ -1,0 +1,139 @@
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\obligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\obligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\obligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\obligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\obligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\obligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_14-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_15-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_18-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_20-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\OblP3_21-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.dev.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl1_P3_26-04\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.genruntimeconfig.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.dev.json
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\TERCER SEMESTRE\Programacion 3\Obligatorio\FinalObl2_P3\AppObligatorio\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.genruntimeconfig.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.deps.json
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.json
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.runtimeconfig.dev.json
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.AssemblyReference.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfoInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.AssemblyInfo.cs
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CoreCompileInputs.cache
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.csproj.CopyComplete
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.dll
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.pdb
+C:\Users\feder\Desktop\Fede\ORT\a\Repositorios\obj\Debug\netcoreapp3.1\Repositorios.genruntimeconfig.cache
